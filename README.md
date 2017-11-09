@@ -1,5 +1,5 @@
 # small-world
-Wer bereits mit Shopware Version 5.3.1 ein Theme einsetzt, und eventuell CSS/Less Änderungen an seinem Button Land auswählen vorgenommen hat, hat spätestens jetzt gemerkt, dass der Button wie der Ursprungsbutton jetzt ausschaut.
+Wer bereits mit Shopware Version 5.3.1 ein Theme einsetzt, und eventuell CSS/Less Änderungen an seinem Button "Land auswählen" vorgenommen hat, hat spätestens jetzt gemerkt, dass der Button wie der Ursprungsbutton jetzt ausschaut.
 Das liegt vermutlich daran, dass sich die Klasse geändert hat.
 Früher hieß sie 
  
