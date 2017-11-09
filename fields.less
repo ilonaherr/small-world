@@ -1,0 +1,57 @@
+//Einstellung hier nur dür Desktop, f. Smartphones, muss extra noch geschrieben werden.
+
+@media screen and (min-width: @desktopViewportWidth) {
+  .hekl-footer-language-switcher {
+    .select-field,
+    .js--fancy-select {
+      color: #fff; //Farbe des Landes
+      border: 0;
+
+      &:hover {
+        color: #fff; //farbe d. pfeils neben dem button -- später löschen
+      }
+
+      select {
+        background-color: transparent; //macht den Button transparent
+        background-image: none; //enternt die gradiente
+        border: 0; //entfernt den border um den button
+        width: auto;
+
+        option { //Dopdown-Element-Länder Auswahl
+          color: #666; //textfarbe innerhalb d. selektauswahl
+          background-color: rgba(0, 0, 0, 0.1); //HG-Farbe der aktiven option, wenn  ausgewählt werden
+        }
+
+        &:hover {
+          color: #fff; //Farbe wenn man über die Länderauswahl fährt
+          border-color: transparent;
+          background-color: transparent;
+        }
+
+        &:focus {
+          color: #fff;
+        }
+
+        &:focus::-ms-value {
+          display: none;
+        }
+      }
+
+      &:after {
+        content: @sw-icon-arrow-right; 
+        font-size: 10px;
+        font-family: 'shopware';
+        border: 0;
+        padding-right: 40px;
+
+        &:hover { //hover - Land-Auswahl
+          color: #fff;
+        }
+      }
+    }
+  }
+}
+
+
+
+
