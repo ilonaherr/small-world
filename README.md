@@ -16,5 +16,5 @@ Die Klasse findet sich nun in der **fields.less** im Ordner Responsive _./fronte
 }
 
 Hier habe ich mal eine Klassendefinition erstellt und in die footer.less eingebunden. 
-P.S: Einstellung gilt nur für Desktopansicht. Für Smartphones, muss extra noch geschrieben werden. </br>
+P.S: Einstellung gilt nur für Desktopansicht. Für Smartphones, muss extra noch geschrieben werden. </br> </br>
 **Es geht ja auch nur darum welche Klasse angesprochen werden soll.**
