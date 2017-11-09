@@ -15,4 +15,4 @@ Die Klasse findet sich nun in der **fields.less** im Ordner Responsive _./fronte
     }
 }
 
-Hier habe ich mal eine Klassendefinition erstellt. Wichtig! dass die Datei in Eurem Themeordner im entsprechenden Verzeichnis angelegt und definiert wurde und in der all.less auch importiert wird. 
+Hier habe ich mal eine Klassendefinition erstellt und in die footer.less eingebunden. 
