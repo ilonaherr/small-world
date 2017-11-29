@@ -16,9 +16,8 @@ Die Klasse findet sich in der **fields.less** im Ordner Responsive _./frontend/_
     }
 }
 
-Hier habe ich mal eine Klassendefinition erstellt und in die footer.less eingebunden. 
-P.S: Einstellung gilt nur für Desktopansicht. Für Smartphones, muss extra noch geschrieben werden. </br> </br>
-**Es geht ja auch nur darum welche Klasse angesprochen werden soll.**
-</br> Und noch was, den textbaustein "Land auswählen" hab ich mittels inlestyle direkt im Textbaustein weiss gemacht. 
+Habe dazu in meinem Theme einfach in src/less/_components auch eine fields.less angelegt.
+Danach die Klassen die ich überschreiben möchte eingebunden.
+Anschließend in meiner all.less noch die less importiert und fertig.
 
 Wäre schön wenn wir die richtigen Anpassungen beim nächsten Livestream machen könnten.
