@@ -20,4 +20,4 @@ Habe dazu in meinem Theme einfach in src/less/_components auch eine fields.less 
 Danach die Klassen die ich überschreiben möchte eingebunden.
 Anschließend in meiner all.less noch die less importiert und fertig.
 
-Wäre schön wenn wir die richtigen Anpassungen beim nächsten Livestream machen könnten.
+>>> Wäre schön wenn wir die richtigen Anpassungen beim nächsten Livestream machen könnten.
